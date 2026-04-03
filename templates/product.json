@@ -41,7 +41,7 @@
         "html_riyhhe": {
           "type": "html",
           "settings": {
-            "custom_html": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n<span style=\"font-weight: bold;\">😌 Relax & Refresh Instantly</span> – Soothe tired eyes and unwind after long screen time or a busy day.<br><br>\n<span style=\"font-weight: bold;\">🔴 Advanced Light Therapy</span> – Gentle red light helps support a brighter, more youthful-looking eye area.<br><br>\n<span style=\"font-weight: bold;\">✨ Reduce Puffiness & Dark Circles</span> – Enjoy a smoother, revitalized appearance with regular use.\n</div>"
+            "custom_html": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n<span style=\"font-weight: bold;\">🔥 Style Anytime, Anywhere</span> – Achieve smooth, sleek hair on the go with this compact and portable straightener brush.<br><br>\n\n<span style=\"font-weight: bold;\">⚡ Fast Heating Technology</span> – Ready in seconds with adjustable heat levels for quick, effortless styling.<br><br>\n\n<span style=\"font-weight: bold;\">✨ Smooth, Frizz-Free Results</span> – Gently detangles, reduces frizz, and leaves your hair looking polished and salon-ready.\n</div>"
           }
         },
         "quantity_selector": {
