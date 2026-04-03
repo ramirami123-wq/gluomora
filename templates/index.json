@@ -15,7 +15,7 @@
         "971b1015-ef28-4d4a-a43c-646bfd6da4a0": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/1774865429_IMG_0035.png",
+            "image": "shopify://shop_images/1774865429_IMG_6178.png",
             "image_link": "",
             "open_new_window_image": false,
             "overlay_opacity": 0,
@@ -86,7 +86,7 @@
         "text_zYmrxL": {
           "type": "text",
           "settings": {
-            "text": "Calmiva",
+            "text": "Gluomora",
             "highlight_type": "underline",
             "text_size": 120,
             "text_color": "primary",
@@ -219,7 +219,7 @@
         "text_ARBErC": {
           "type": "text",
           "settings": {
-            "text": "Free Delivery",
+            "text": "Delivery All Over Lebanon",
             "highlight_type": "underline",
             "text_size": 100,
             "text_color": "primary",
@@ -261,7 +261,7 @@
         "heading_FKqVLq": {
           "type": "heading",
           "settings": {
-            "heading": "About Us",
+            "heading": "At Gluomora",
             "highlight_type": "underline",
             "heading_size": 100,
             "heading_tag": "h2"
@@ -270,7 +270,7 @@
         "text_DYie9T": {
           "type": "text",
           "settings": {
-            "text": "<p>At our store, we believe that self-care should be simple, effective, and accessible to everyone. That’s why we’re dedicated to offering innovative beauty and wellness products designed to fit seamlessly into your daily routine.</p><p>Our featured eye care device combines modern technology with comfort, helping you relax, refresh, and take better care of your skin—all from the comfort of your home. Whether you’re looking to unwind after a long day or enhance your skincare routine, our products are made to support your well-being.</p>",
+            "text": "<p>We believe great style should be simple, fast, and accessible anywhere. That’s why we created innovative, portable beauty tools designed to fit your lifestyle.</p><p>Our mission is to help you look and feel your best—whether you’re at home, at work, or on the go. With smart design and reliable performance, our products make everyday styling effortless.</p>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less"
@@ -350,31 +350,31 @@
         "frequently_asked_question_cCBAj6": {
           "type": "frequently_asked_question",
           "settings": {
-            "icon": "heart",
+            "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "What does this eye device do?",
-            "row_content": "<p><br/>Our eye care device is designed to help relax the eye area, reduce the appearance of puffiness, and support a refreshed, well-rested look using gentle light and soothing technology.<br/><br/></p>"
+            "heading": "How long does shipping take?",
+            "row_content": "<p>Shipping times typically range between 5–7 business days, depending on your location.</p>"
           }
         },
         "frequently_asked_question_kjDnG9": {
           "type": "frequently_asked_question",
           "settings": {
-            "icon": "heart",
+            "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "Is it safe to use daily?",
-            "row_content": "<p>Yes, the device is designed for regular use. However, we recommend following the usage guidelines and consulting a professional if you have any medical concerns.<br/><br/></p>"
+            "heading": "What if I receive a damaged or defective item?",
+            "row_content": "<p>Please contact our support team, and we’ll quickly arrange a replacement or refund.</p>"
           }
         },
         "frequently_asked_question_4dJVT3": {
           "type": "frequently_asked_question",
           "settings": {
-            "icon": "heart",
+            "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "How long does it take to see results?",
-            "row_content": "<p>Results may vary, but many users notice a more relaxed and refreshed feeling immediately, with visible improvements over consistent use.</p>"
+            "heading": "How can I contact customer support?",
+            "row_content": "<p><br/>You can reach us anytime through our contact page or Whatsapp, and we’ll be happy to assist you.<br/><br/></p>"
           }
         }
       },
