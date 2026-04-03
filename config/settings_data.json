@@ -28,7 +28,7 @@
     "secondary_heading": "#211e1e",
     "secondary_text": "#545252",
     "colors_button": "#efe8de",
-    "colors_button_text": "#ffffff",
+    "colors_button_text": "#000000",
     "colors_button_hover": "#efe8de",
     "colors_button_text_hover": "#ffffff",
     "background_button_secondary": "rgba(0,0,0,0)",
