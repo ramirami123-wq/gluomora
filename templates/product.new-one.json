@@ -41,7 +41,7 @@
         "html_riyhhe": {
           "type": "html",
           "settings": {
-            "custom_html": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n<span style=\"font-weight: bold;\">🔥 Style Anytime, Anywhere</span> – Achieve smooth, sleek hair on the go with this compact and portable straightener brush.<br><br>\n\n<span style=\"font-weight: bold;\">⚡ Fast Heating Technology</span> – Ready in seconds with adjustable heat levels for quick, effortless styling.<br><br>\n\n<span style=\"font-weight: bold;\">✨ Smooth, Frizz-Free Results</span> – Gently detangles, reduces frizz, and leaves your hair looking polished and salon-ready.\n</div>"
+            "custom_html": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n<span style=\"font-weight: bold;\">🍋 Vitamin C Powered</span> – Stable, high-potency Vitamin C visibly brightens dull skin and evens tone for a radiant, healthy glow.<br><br>\n<span style=\"font-weight: bold;\">✨ Fades Dark Spots</span> – Niacinamide and antioxidants work together to reduce hyperpigmentation and discoloration over time.<br><br>\n<span style=\"font-weight: bold;\">☀️ Antioxidant Protection</span> – Shields skin from environmental stress and free radicals, supporting a smoother, more youthful complexion.\n</div>"
           }
         },
         "quantity_selector": {
@@ -319,7 +319,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/1774865429_IMG_6177.png",
+        "image": "shopify://shop_images/WhatsApp_Image_2026-05-05_at_6.32.08_PM_1.jpg",
         "show_sound_control": false,
         "video_url": "",
         "video_alt_text": "",
@@ -431,7 +431,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/1774865429_IMG_6178.png",
+        "image": "shopify://shop_images/WhatsApp_Image_2026-05-05_at_6.32.08_PM_3.jpg",
         "show_sound_control": false,
         "video_url": "",
         "video_alt_text": "",

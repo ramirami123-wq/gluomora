@@ -41,7 +41,7 @@
         "html_riyhhe": {
           "type": "html",
           "settings": {
-            "custom_html": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n<span style=\"font-weight: bold;\">🔥 Style Anytime, Anywhere</span> – Achieve smooth, sleek hair on the go with this compact and portable straightener brush.<br><br>\n\n<span style=\"font-weight: bold;\">⚡ Fast Heating Technology</span> – Ready in seconds with adjustable heat levels for quick, effortless styling.<br><br>\n\n<span style=\"font-weight: bold;\">✨ Smooth, Frizz-Free Results</span> – Gently detangles, reduces frizz, and leaves your hair looking polished and salon-ready.\n</div>"
+            "custom_html": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n<span style=\"font-weight: bold;\">🌿 Bakuchiol Powered</span> – Plant-based retinol alternative for visibly firmer, plumper skin without irritation.<br><br>\n<span style=\"font-weight: bold;\">💧 24-Hour Hydration</span> – Hyaluronic acid and peptides lock in moisture and restore elasticity.<br><br>\n<span style=\"font-weight: bold;\">✨ Visible Results in 4 Weeks</span> – Smooths fine lines, evens skin tone, and restores a youthful glow.\n</div>"
           }
         },
         "quantity_selector": {
@@ -254,7 +254,7 @@
         "text_DYJtQn": {
           "type": "text",
           "settings": {
-            "text": "Smooth hair, anytime, anywhere.",
+            "text": "Sweet hair, anytime, anywhere",
             "highlight_type": "underline",
             "text_size": 100,
             "text_color": "primary",
@@ -297,11 +297,11 @@
           "type": "heading",
           "settings": {
             "subheading": "",
-            "heading": "Effortless Styling On the Go",
+            "heading": "Plant-Based Power, Clinical Results",
             "highlight_type": "underline",
             "heading_base_size": 100,
             "heading_tag": "h2",
-            "text": "<p><br/>Stay polished wherever life takes you. This mini hair straightener brush combines convenience and performance, giving you smooth, sleek hair in minutes—perfect for travel, work, or quick touch-ups anytime.<br/><br/></p>",
+            "text": "<p>Our Bakuchiol Plumping Serum delivers all the benefits of retinol — firmer skin, smoother texture, reduced fine lines — without the irritation, redness, or sun sensitivity. A clinically proven, plant-derived alternative formulated for daily use, morning and night, on even the most sensitive skin types.</p>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less",
@@ -319,7 +319,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/1774865429_IMG_6177.png",
+        "image": "shopify://shop_images/IMG-0097.jpg",
         "show_sound_control": false,
         "video_url": "",
         "video_alt_text": "",
@@ -366,7 +366,7 @@
         "text_pycbn8": {
           "type": "text",
           "settings": {
-            "text": "Style smart. Stay sleek.",
+            "text": "Visible results in 4 weeks",
             "highlight_type": "underline",
             "text_size": 100,
             "text_color": "primary",
@@ -409,11 +409,11 @@
           "type": "heading",
           "settings": {
             "subheading": "",
-            "heading": "Fast, Smooth, Frizz-Free Results",
+            "heading": "Plumper, Smoother, Younger-Looking Skin",
             "highlight_type": "underline",
             "heading_base_size": 100,
             "heading_tag": "h2",
-            "text": "<p><br/>Tame frizz and flyaways with ease using this compact hot comb. Designed with adjustable heat settings and a gentle glide, it delivers salon-quality results without pulling or damaging your hair.<br/><br/></p>",
+            "text": "<p>Formulated with 1% pure bakuchiol, multi-weight hyaluronic acid, and botanical peptides, this lightweight serum penetrates deep to restore firmness, soften fine lines, and even skin tone. Works while you sleep — wake up to visibly softer, more radiant skin.</p>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less",
@@ -431,7 +431,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/1774865429_IMG_6178.png",
+        "image": "shopify://shop_images/IMG-0101.jpg",
         "show_sound_control": false,
         "video_url": "",
         "video_alt_text": "",
@@ -478,7 +478,7 @@
         "criterion_7GGT6t": {
           "type": "criterion",
           "settings": {
-            "heading": "Fast Heating",
+            "heading": "Plant-Based Bakuchiol (Retinol Alternative)",
             "criterion_detail_product": "Yes",
             "criterion_detail_externals": "No\nNo\nNo\nNo"
           }
@@ -486,7 +486,7 @@
         "criterion_PwExPw": {
           "type": "criterion",
           "settings": {
-            "heading": "Adjustable Heat Settings",
+            "heading": "Multi-Weight Hyaluronic Acid Hydration",
             "criterion_detail_product": "Yes",
             "criterion_detail_externals": "No\nNo\nNo\nNo"
           }
@@ -494,7 +494,7 @@
         "criterion_xq8H3q": {
           "type": "criterion",
           "settings": {
-            "heading": "Anti-Scald Design",
+            "heading": "Suitable for Sensitive Skin",
             "criterion_detail_product": "Yes",
             "criterion_detail_externals": "No\nNo\nNo\nNo"
           }
@@ -502,7 +502,7 @@
         "criterion_8PcRXm": {
           "type": "criterion",
           "settings": {
-            "heading": "Frizz Reduction",
+            "heading": "Safe for AM & PM Use (No Sun Sensitivity)",
             "criterion_detail_product": "Yes",
             "criterion_detail_externals": "No\nNo\nNo\nNo"
           }
@@ -510,7 +510,7 @@
         "criterion_BXt7xk": {
           "type": "criterion",
           "settings": {
-            "heading": "USB Rechargeable",
+            "heading": "Vegan & Cruelty-Free",
             "criterion_detail_product": "Yes",
             "criterion_detail_externals": "No\nNo\nNo\nNo"
           }
@@ -564,8 +564,18 @@
             "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "How long does it take to heat up?",
-            "row_content": "<p><br/>It heats up in just a few seconds, so you can start styling almost instantly.<br/><br/></p>"
+            "heading": "What is bakuchiol and how is it different from retinol?",
+            "row_content": "<p>Bakuchiol is a plant-derived compound extracted from the seeds of the Psoralea corylifolia plant. It delivers similar anti-aging benefits to retinol — smoother texture, reduced fine lines, and improved firmness — but without the irritation, dryness, or photosensitivity associated with traditional retinol. This makes it suitable for daily use, even on sensitive skin.</p>"
+          }
+        },
+        "frequently_asked_question_qtJ9gn": {
+          "type": "frequently_asked_question",
+          "settings": {
+            "icon": "heart",
+            "another_icon": "",
+            "custom_icon": "",
+            "heading": "How often should I use it?",
+            "row_content": "<p>Apply morning and night after cleansing and toning, before moisturizer. Bakuchiol is gentle enough for daily use and does not increase sun sensitivity, but we still recommend wearing SPF during the day for optimal skin protection.</p>"
           }
         },
         "frequently_asked_question_qKUeCx": {
@@ -574,8 +584,8 @@
             "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "Is it safe to use on all hair types?",
-            "row_content": "<p>Yes! It works on most hair types, including straight, wavy, and slightly curly hair.</p>"
+            "heading": "When will I see results?",
+            "row_content": "<p>Yes. Bakuchiol is well-tolerated by sensitive skin, including those prone to rosacea or eczema. Our formula is also free from fragrance, parabens, sulfates, and drying alcohols. As with any new product, we recommend a patch test before first use.</p>"
           }
         },
         "frequently_asked_question_p9THCx": {
@@ -584,26 +594,16 @@
             "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "Will it damage my hair?",
-            "row_content": "<p><br/>No—when used properly, the gentle heat and protective design help minimize damage while styling.<br/><br/></p>"
-          }
-        },
-        "frequently_asked_question_KdBJC7": {
-          "type": "frequently_asked_question",
-          "settings": {
-            "icon": "faq",
-            "another_icon": "",
-            "custom_icon": "",
-            "heading": "How long does the battery last?",
-            "row_content": "<p><br/>The battery lasts long enough for multiple styling sessions on a single charge, making it perfect for travel.<br/><br/></p>"
+            "heading": "Can I use it with other skincare products?",
+            "row_content": "<p>Absolutely. Bakuchiol layers well with most active ingredients, including hyaluronic acid, niacinamide, vitamin C, and peptides. Apply after water-based serums and before heavier oils or moisturizers.</p>"
           }
         }
       },
       "block_order": [
         "frequently_asked_question_tdwyep",
+        "frequently_asked_question_qtJ9gn",
         "frequently_asked_question_qKUeCx",
-        "frequently_asked_question_p9THCx",
-        "frequently_asked_question_KdBJC7"
+        "frequently_asked_question_p9THCx"
       ],
       "name": "t:sections.question_and_answer.presets.name",
       "settings": {
@@ -638,20 +638,6 @@
     },
     "1775230527caeebe72": {
       "type": "apps",
-      "blocks": {
-        "judge_me_reviews_review_widget_hGJx4b": {
-          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "review_data": "real_data",
-            "max_width": 1200,
-            "show_shop_reviews": false,
-            "empty_state": "empty_widget"
-          }
-        }
-      },
-      "block_order": [
-        "judge_me_reviews_review_widget_hGJx4b"
-      ],
       "settings": {
         "include_margins": true
       }
