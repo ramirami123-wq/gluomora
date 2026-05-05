@@ -251,10 +251,36 @@
     "scrolling_banner_FihEbF": {
       "type": "scrolling-banner",
       "blocks": {
+        "text_cNPBtc": {
+          "type": "text",
+          "settings": {
+            "text": "Brighter skin in 4 weeks",
+            "highlight_type": "underline",
+            "text_size": 100,
+            "text_color": "primary",
+            "spacing_left": 0,
+            "spacing_right": 0,
+            "spacing_left_mobile": 0,
+            "spacing_right_mobile": 0
+          }
+        },
+        "text_CbxxUh": {
+          "type": "text",
+          "settings": {
+            "text": "Vitamin C glow boost",
+            "highlight_type": "underline",
+            "text_size": 100,
+            "text_color": "primary",
+            "spacing_left": 0,
+            "spacing_right": 0,
+            "spacing_left_mobile": 0,
+            "spacing_right_mobile": 0
+          }
+        },
         "text_DYJtQn": {
           "type": "text",
           "settings": {
-            "text": "Smooth hair, anytime, anywhere.",
+            "text": "Vegan & Cruelty-Free",
             "highlight_type": "underline",
             "text_size": 100,
             "text_color": "primary",
@@ -266,6 +292,8 @@
         }
       },
       "block_order": [
+        "text_cNPBtc",
+        "text_CbxxUh",
         "text_DYJtQn"
       ],
       "name": "t:sections.scrolling_promotion.presets.name",
@@ -297,11 +325,11 @@
           "type": "heading",
           "settings": {
             "subheading": "",
-            "heading": "Effortless Styling On the Go",
+            "heading": "High-Potency Glow, Visible Results",
             "highlight_type": "underline",
             "heading_base_size": 100,
             "heading_tag": "h2",
-            "text": "<p><br/>Stay polished wherever life takes you. This mini hair straightener brush combines convenience and performance, giving you smooth, sleek hair in minutes—perfect for travel, work, or quick touch-ups anytime.<br/><br/></p>",
+            "text": "<p>Our Vitamin C Illuminating Serum delivers a high concentration of stable Vitamin C, niacinamide, and antioxidants to brighten dull skin, fade dark spots, and protect against environmental damage. Lightweight, fast-absorbing, and gentle enough for daily use.</p>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less",
@@ -363,10 +391,23 @@
     "scrolling_banner_cXMWJF": {
       "type": "scrolling-banner",
       "blocks": {
+        "text_wPtBQc": {
+          "type": "text",
+          "settings": {
+            "text": "Powered by Vitamin C",
+            "highlight_type": "underline",
+            "text_size": 100,
+            "text_color": "primary",
+            "spacing_left": 0,
+            "spacing_right": 0,
+            "spacing_left_mobile": 0,
+            "spacing_right_mobile": 0
+          }
+        },
         "text_pycbn8": {
           "type": "text",
           "settings": {
-            "text": "Style smart. Stay sleek.",
+            "text": "Visible glow from day one",
             "highlight_type": "underline",
             "text_size": 100,
             "text_color": "primary",
@@ -378,12 +419,13 @@
         }
       },
       "block_order": [
+        "text_wPtBQc",
         "text_pycbn8"
       ],
       "name": "t:sections.scrolling_promotion.presets.name",
       "settings": {
         "show_border": true,
-        "speed": 20,
+        "speed": 40,
         "direction": "right",
         "pause_hover": true,
         "bg_light": "#efe8de",
@@ -409,11 +451,11 @@
           "type": "heading",
           "settings": {
             "subheading": "",
-            "heading": "Fast, Smooth, Frizz-Free Results",
+            "heading": "Brighter, Smoother, Glowing Skin",
             "highlight_type": "underline",
             "heading_base_size": 100,
             "heading_tag": "h2",
-            "text": "<p><br/>Tame frizz and flyaways with ease using this compact hot comb. Designed with adjustable heat settings and a gentle glide, it delivers salon-quality results without pulling or damaging your hair.<br/><br/></p>",
+            "text": "<p>Formulated with 10% stable Vitamin C, niacinamide, and hyaluronic acid, this lightweight serum penetrates deep to brighten dull skin, even skin tone, and restore a natural, healthy glow. Daily use reveals visibly clearer, more radiant skin.</p>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less",
@@ -478,7 +520,7 @@
         "criterion_7GGT6t": {
           "type": "criterion",
           "settings": {
-            "heading": "Fast Heating",
+            "heading": "High-Potency Stable Vitamin C",
             "criterion_detail_product": "Yes",
             "criterion_detail_externals": "No\nNo\nNo\nNo"
           }
@@ -486,7 +528,7 @@
         "criterion_PwExPw": {
           "type": "criterion",
           "settings": {
-            "heading": "Adjustable Heat Settings",
+            "heading": "Niacinamide for Tone Correction",
             "criterion_detail_product": "Yes",
             "criterion_detail_externals": "No\nNo\nNo\nNo"
           }
@@ -494,7 +536,7 @@
         "criterion_xq8H3q": {
           "type": "criterion",
           "settings": {
-            "heading": "Anti-Scald Design",
+            "heading": "Suitable for All Skin Types",
             "criterion_detail_product": "Yes",
             "criterion_detail_externals": "No\nNo\nNo\nNo"
           }
@@ -502,15 +544,7 @@
         "criterion_8PcRXm": {
           "type": "criterion",
           "settings": {
-            "heading": "Frizz Reduction",
-            "criterion_detail_product": "Yes",
-            "criterion_detail_externals": "No\nNo\nNo\nNo"
-          }
-        },
-        "criterion_BXt7xk": {
-          "type": "criterion",
-          "settings": {
-            "heading": "USB Rechargeable",
+            "heading": "Vegan & Cruelty-Free",
             "criterion_detail_product": "Yes",
             "criterion_detail_externals": "No\nNo\nNo\nNo"
           }
@@ -520,8 +554,7 @@
         "criterion_7GGT6t",
         "criterion_PwExPw",
         "criterion_xq8H3q",
-        "criterion_8PcRXm",
-        "criterion_BXt7xk"
+        "criterion_8PcRXm"
       ],
       "name": "t:sections.comparision-table.name",
       "settings": {
@@ -564,8 +597,8 @@
             "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "How long does it take to heat up?",
-            "row_content": "<p><br/>It heats up in just a few seconds, so you can start styling almost instantly.<br/><br/></p>"
+            "heading": "What does Vitamin C do for the skin?",
+            "row_content": "<p>Vitamin C is a powerful antioxidant that brightens dull skin, fades dark spots and hyperpigmentation, evens skin tone, and protects against environmental damage from UV exposure and pollution. With consistent use, it helps reveal a smoother, more radiant complexion.</p>"
           }
         },
         "frequently_asked_question_qKUeCx": {
@@ -574,8 +607,8 @@
             "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "Is it safe to use on all hair types?",
-            "row_content": "<p>Yes! It works on most hair types, including straight, wavy, and slightly curly hair.</p>"
+            "heading": "How often should I use it?",
+            "row_content": "<p>Apply once daily in the morning after cleansing and toning, before moisturizer and SPF. Vitamin C works best alongside sunscreen, as it boosts your skin's natural protection against UV damage. As tolerance builds, you can also incorporate it into your evening routine.</p>"
           }
         },
         "frequently_asked_question_p9THCx": {
@@ -584,8 +617,8 @@
             "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "Will it damage my hair?",
-            "row_content": "<p><br/>No—when used properly, the gentle heat and protective design help minimize damage while styling.<br/><br/></p>"
+            "heading": "When will I see results?",
+            "row_content": "<p>Most users report visibly brighter, more even skin within 2 weeks. Significant fading of dark spots and hyperpigmentation typically appears after 4–8 weeks of consistent daily use. For best results, pair with broad-spectrum SPF every morning.</p>"
           }
         },
         "frequently_asked_question_KdBJC7": {
@@ -594,8 +627,8 @@
             "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "How long does the battery last?",
-            "row_content": "<p><br/>The battery lasts long enough for multiple styling sessions on a single charge, making it perfect for travel.<br/><br/></p>"
+            "heading": "Is it safe for sensitive skin?",
+            "row_content": "<p>Yes. Our formula uses a stable, gentle form of Vitamin C that minimizes irritation while maximizing brightening benefits. It's also free from fragrance, parabens, sulfates, and drying alcohols. As with any new product, we recommend a patch test before first use.</p>"
           }
         }
       },
@@ -638,20 +671,6 @@
     },
     "1775230527caeebe72": {
       "type": "apps",
-      "blocks": {
-        "judge_me_reviews_review_widget_hGJx4b": {
-          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "review_data": "real_data",
-            "max_width": 1200,
-            "show_shop_reviews": false,
-            "empty_state": "empty_widget"
-          }
-        }
-      },
-      "block_order": [
-        "judge_me_reviews_review_widget_hGJx4b"
-      ],
       "settings": {
         "include_margins": true
       }
