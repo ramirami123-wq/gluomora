@@ -41,7 +41,7 @@
         "html_riyhhe": {
           "type": "html",
           "settings": {
-            "custom_html": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n<span style=\"font-weight: bold;\">🔥 Style Anytime, Anywhere</span> – Achieve smooth, sleek hair on the go with this compact and portable straightener brush.<br><br>\n\n<span style=\"font-weight: bold;\">⚡ Fast Heating Technology</span> – Ready in seconds with adjustable heat levels for quick, effortless styling.<br><br>\n\n<span style=\"font-weight: bold;\">✨ Smooth, Frizz-Free Results</span> – Gently detangles, reduces frizz, and leaves your hair looking polished and salon-ready.\n</div>"
+            "custom_html": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n<span style=\"font-weight: bold;\">🌸 Complete 3-Step Routine</span> – Brighten, firm, and plump your skin with three high-performance serums in one curated set.<br><br>\n<span style=\"font-weight: bold;\">✨ Powered by Bakuchiol, Vitamin C & NAD+</span> – Three clinically backed actives working in harmony for radiant, youthful-looking skin.<br><br>\n<span style=\"font-weight: bold;\">💎 Visible Results in 4 Weeks</span> – Smooths fine lines, fades dark spots, and restores firmness for an all-around healthy glow.\n</div>"
           }
         },
         "quantity_selector": {
