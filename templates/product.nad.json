@@ -41,7 +41,7 @@
         "html_riyhhe": {
           "type": "html",
           "settings": {
-            "custom_html": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n<span style=\"font-weight: bold;\">🔥 Style Anytime, Anywhere</span> – Achieve smooth, sleek hair on the go with this compact and portable straightener brush.<br><br>\n\n<span style=\"font-weight: bold;\">⚡ Fast Heating Technology</span> – Ready in seconds with adjustable heat levels for quick, effortless styling.<br><br>\n\n<span style=\"font-weight: bold;\">✨ Smooth, Frizz-Free Results</span> – Gently detangles, reduces frizz, and leaves your hair looking polished and salon-ready.\n</div>"
+            "custom_html": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n<span style=\"font-weight: bold;\">🌸 NAD+ Powered</span> – Boosts cellular energy and renewal for firmer, more youthful-looking skin.<br><br>\n<span style=\"font-weight: bold;\">💎 Multi-Peptide Complex</span> – Supports collagen, elasticity, and visible lift to reduce fine lines and restore bounce.<br><br>\n<span style=\"font-weight: bold;\">✨ Visible Lift in 4 Weeks</span> – Restores firmness, improves elasticity, and reveals smoother, more resilient skin.\n</div>"
           }
         },
         "quantity_selector": {
@@ -251,10 +251,49 @@
     "scrolling_banner_FihEbF": {
       "type": "scrolling-banner",
       "blocks": {
+        "text_NqFtpD": {
+          "type": "text",
+          "settings": {
+            "text": "Firmer skin in 4 weeks",
+            "highlight_type": "underline",
+            "text_size": 100,
+            "text_color": "primary",
+            "spacing_left": 0,
+            "spacing_right": 0,
+            "spacing_left_mobile": 0,
+            "spacing_right_mobile": 0
+          }
+        },
+        "text_HBzmYi": {
+          "type": "text",
+          "settings": {
+            "text": "NAD+ Peptide Power",
+            "highlight_type": "underline",
+            "text_size": 100,
+            "text_color": "primary",
+            "spacing_left": 0,
+            "spacing_right": 0,
+            "spacing_left_mobile": 0,
+            "spacing_right_mobile": 0
+          }
+        },
+        "text_PJwLDp": {
+          "type": "text",
+          "settings": {
+            "text": "Vegan & Cruelty-Free",
+            "highlight_type": "underline",
+            "text_size": 100,
+            "text_color": "primary",
+            "spacing_left": 0,
+            "spacing_right": 0,
+            "spacing_left_mobile": 0,
+            "spacing_right_mobile": 0
+          }
+        },
         "text_DYJtQn": {
           "type": "text",
           "settings": {
-            "text": "Smooth hair, anytime, anywhere.",
+            "text": "Dermatologist Tested",
             "highlight_type": "underline",
             "text_size": 100,
             "text_color": "primary",
@@ -266,6 +305,9 @@
         }
       },
       "block_order": [
+        "text_NqFtpD",
+        "text_HBzmYi",
+        "text_PJwLDp",
         "text_DYJtQn"
       ],
       "name": "t:sections.scrolling_promotion.presets.name",
@@ -297,11 +339,11 @@
           "type": "heading",
           "settings": {
             "subheading": "",
-            "heading": "Effortless Styling On the Go",
+            "heading": "Next-Generation Anti-Aging Power",
             "highlight_type": "underline",
             "heading_base_size": 100,
             "heading_tag": "h2",
-            "text": "<p><br/>Stay polished wherever life takes you. This mini hair straightener brush combines convenience and performance, giving you smooth, sleek hair in minutes—perfect for travel, work, or quick touch-ups anytime.<br/><br/></p>",
+            "text": "<p>Our NAD+ Peptide Boosting Serum combines cutting-edge NAD+ precursors with a multi-peptide complex to restore firmness, improve elasticity, and visibly lift tired skin. Lightweight, fast-absorbing, and gentle enough for daily use on all skin types — including mature skin.</p>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less",
@@ -319,7 +361,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/1774865429_IMG_6177.png",
+        "image": "shopify://shop_images/WhatsApp_Image_2026-05-05_at_6.32.08_PM_4.jpg",
         "show_sound_control": false,
         "video_url": "",
         "video_alt_text": "",
@@ -363,10 +405,36 @@
     "scrolling_banner_cXMWJF": {
       "type": "scrolling-banner",
       "blocks": {
+        "text_PfHfVE": {
+          "type": "text",
+          "settings": {
+            "text": "Lifted, bouncier skin",
+            "highlight_type": "underline",
+            "text_size": 100,
+            "text_color": "primary",
+            "spacing_left": 0,
+            "spacing_right": 0,
+            "spacing_left_mobile": 0,
+            "spacing_right_mobile": 0
+          }
+        },
+        "text_YkH9tx": {
+          "type": "text",
+          "settings": {
+            "text": "Powered by Peptides",
+            "highlight_type": "underline",
+            "text_size": 100,
+            "text_color": "primary",
+            "spacing_left": 0,
+            "spacing_right": 0,
+            "spacing_left_mobile": 0,
+            "spacing_right_mobile": 0
+          }
+        },
         "text_pycbn8": {
           "type": "text",
           "settings": {
-            "text": "Style smart. Stay sleek.",
+            "text": "Visible firming results",
             "highlight_type": "underline",
             "text_size": 100,
             "text_color": "primary",
@@ -378,6 +446,8 @@
         }
       },
       "block_order": [
+        "text_PfHfVE",
+        "text_YkH9tx",
         "text_pycbn8"
       ],
       "name": "t:sections.scrolling_promotion.presets.name",
@@ -409,11 +479,11 @@
           "type": "heading",
           "settings": {
             "subheading": "",
-            "heading": "Fast, Smooth, Frizz-Free Results",
+            "heading": "Firmer, Bouncier, Lifted Skin",
             "highlight_type": "underline",
             "heading_base_size": 100,
             "heading_tag": "h2",
-            "text": "<p><br/>Tame frizz and flyaways with ease using this compact hot comb. Designed with adjustable heat settings and a gentle glide, it delivers salon-quality results without pulling or damaging your hair.<br/><br/></p>",
+            "text": "<p>Formulated with NAD+ precursors, advanced peptides, and hyaluronic acid, this lightweight serum penetrates deep to restore firmness, smooth fine lines, and improve elasticity. Daily use reveals visibly lifted, bouncier skin that feels healthier, stronger, and more resilient.</p>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less",
@@ -431,7 +501,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/1774865429_IMG_6178.png",
+        "image": "shopify://shop_images/WhatsApp_Image_2026-05-05_at_6.32.08_PM_5.jpg",
         "show_sound_control": false,
         "video_url": "",
         "video_alt_text": "",
