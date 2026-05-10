@@ -52,10 +52,52 @@
             "colors_text_link": "rgba(0,0,0,0)",
             "color_heading_highlight_light": "rgba(0,0,0,0)"
           }
+        },
+        "slide_jnWfht": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/1776337041_phpft9jpqb2055r3rJcUoa.webp",
+            "image_link": "",
+            "open_new_window_image": false,
+            "overlay_opacity": 0,
+            "enable_bakground": false,
+            "subheading": "",
+            "heading": "EQQALBERY Collection",
+            "highlight_type": "underline",
+            "heading_size": 170,
+            "heading_tag": "h2",
+            "text": "",
+            "button_label_1": "SHOP NOW",
+            "button_link_1": "shopify://collections/eqqalbery",
+            "open_new_window_button": false,
+            "show_button_style_1": "primary",
+            "button_label_2": "",
+            "button_link_2": "",
+            "open_new_window_button_2": false,
+            "show_button_style_2": "primary",
+            "content_alignment": "middle-center",
+            "custom_horizontal": 50,
+            "custom_vertical": 50,
+            "alignment": "center",
+            "text_product": "Check out our products:",
+            "list_products": [],
+            "show_rating": false,
+            "content_background_color": "rgba(0,0,0,0)",
+            "color_text": "rgba(0,0,0,0)",
+            "color_button": "rgba(0,0,0,0)",
+            "color_text_button": "rgba(0,0,0,0)",
+            "color_button_hover": "rgba(0,0,0,0)",
+            "color_text_button_hover": "rgba(0,0,0,0)",
+            "color_button_secondary": "rgba(0,0,0,0)",
+            "secondary_button_text": "rgba(0,0,0,0)",
+            "colors_text_link": "rgba(0,0,0,0)",
+            "color_heading_highlight_light": "rgba(0,0,0,0)"
+          }
         }
       },
       "block_order": [
-        "971b1015-ef28-4d4a-a43c-646bfd6da4a0"
+        "971b1015-ef28-4d4a-a43c-646bfd6da4a0",
+        "slide_jnWfht"
       ],
       "settings": {
         "show_hero": false,
