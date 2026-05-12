@@ -56,6 +56,13 @@
             "color_icon_dark": "rgba(0,0,0,0)"
           }
         },
+        "pumper_bundles_app_block_bundle_7JYb7J": {
+          "type": "shopify://apps/pumper-bundles/blocks/app-block-bundle/0856870d-2aca-4b1e-a662-cf1797f61270",
+          "settings": {
+            "selected_product": "{{product}}",
+            "using_page_builder": false
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -85,13 +92,6 @@
             "button_text_hover_dark": "rgba(0,0,0,0)",
             "secondary_button_dark": "rgba(0,0,0,0)",
             "secondary_button_text_dark": "rgba(0,0,0,0)"
-          }
-        },
-        "pumper_bundles_app_block_bundle_7JYb7J": {
-          "type": "shopify://apps/pumper-bundles/blocks/app-block-bundle/0856870d-2aca-4b1e-a662-cf1797f61270",
-          "settings": {
-            "selected_product": "{{product}}",
-            "using_page_builder": false
           }
         },
         "html_DK78JD": {
@@ -178,8 +178,8 @@
         "html_riyhhe",
         "quantity_selector",
         "gift_wrapping_EK3NQn",
-        "buy_buttons",
         "pumper_bundles_app_block_bundle_7JYb7J",
+        "buy_buttons",
         "html_DK78JD",
         "feature_icon_99BxnX",
         "sticky-atc"
