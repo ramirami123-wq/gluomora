@@ -176,7 +176,7 @@
         "html_3hXKDG": {
           "type": "html",
           "settings": {
-            "custom_html": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n<span style=\"font-weight: bold;\">😌 Relax & Refresh Instantly</span> – Soothe tired eyes and unwind after long screen time or a busy day.<br><br>\n<span style=\"font-weight: bold;\">🔴 Advanced Light Therapy</span> – Gentle red light helps support a brighter, more youthful-looking eye area.<br><br>\n<span style=\"font-weight: bold;\">✨ Reduce Puffiness & Dark Circles</span> – Enjoy a smoother, revitalized appearance with regular use.\n</div>"
+            "custom_html": "Your go-to hair essential for quick and easy styling on the go ✨\n The Mini Portable Hair Straightener is compact, lightweight, and perfect for smoothing frizz or fixing your hair anytime, anywhere. Toss it in your bag and stay sleek all day 💖"
           }
         },
         "quantity_selector_KBHMhn": {
@@ -278,6 +278,7 @@
             "overlay_opacity": 0,
             "image_ratio": "100",
             "show_sound_control": false,
+            "video_url": "",
             "enable_video_autoplay": false,
             "video_alt_text": "",
             "product_card": "",
@@ -344,6 +345,19 @@
     "scrolling_banner_6fW3xL": {
       "type": "scrolling-banner",
       "blocks": {
+        "text_WTeKp3": {
+          "type": "text",
+          "settings": {
+            "text": "Talk about your brand",
+            "highlight_type": "underline",
+            "text_size": 100,
+            "text_color": "primary",
+            "spacing_left": 0,
+            "spacing_right": 0,
+            "spacing_left_mobile": 0,
+            "spacing_right_mobile": 0
+          }
+        },
         "text_ARBErC": {
           "type": "text",
           "settings": {
@@ -359,6 +373,7 @@
         }
       },
       "block_order": [
+        "text_WTeKp3",
         "text_ARBErC"
       ],
       "name": "t:sections.scrolling_promotion.presets.name",
