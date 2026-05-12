@@ -347,6 +347,7 @@
       "blocks": {
         "text_WTeKp3": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "Talk about your brand",
             "highlight_type": "underline",
