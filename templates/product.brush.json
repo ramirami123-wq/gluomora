@@ -41,7 +41,7 @@
         "html_riyhhe": {
           "type": "html",
           "settings": {
-            "custom_html": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n<span style=\"font-weight: bold;\">🌿 Bakuchiol Powered</span> – Plant-based retinol alternative for visibly firmer, plumper skin without irritation.<br><br>\n<span style=\"font-weight: bold;\">💧 24-Hour Hydration</span> – Hyaluronic acid and peptides lock in moisture and restore elasticity.<br><br>\n<span style=\"font-weight: bold;\">✨ Visible Results in 4 Weeks</span> – Smooths fine lines, evens skin tone, and restores a youthful glow.\n</div>"
+            "custom_html": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n<span style=\"font-weight: bold;\">🌀 Deep Brush Cleaning</span> – Powerful spinning system removes makeup residue, oil, and buildup in seconds.<br><br>\n\n<span style=\"font-weight: bold;\">💧 Fast Wash & Dry</span> – Cleans and dries your brushes quickly, keeping them fresh and ready to use anytime.<br><br>\n\n<span style=\"font-weight: bold;\">✨ Better Makeup Application</span> – Clean brushes help your makeup go on smoother while reducing dirt and bacteria buildup.\n</div>"
           }
         },
         "quantity_selector": {
@@ -334,11 +334,11 @@
           "type": "heading",
           "settings": {
             "subheading": "",
-            "heading": "Plant-Based Power, Clinical Results",
+            "heading": "Clean Brushes. Better Makeup.",
             "highlight_type": "underline",
             "heading_base_size": 100,
             "heading_tag": "h2",
-            "text": "<p>Our Bakuchiol Plumping Serum delivers all the benefits of retinol — firmer skin, smoother texture, reduced fine lines — without the irritation, redness, or sun sensitivity. A clinically proven, plant-derived alternative formulated for daily use, morning and night, on even the most sensitive skin types.</p>",
+            "text": "<p>Keep your makeup brushes fresh, soft, and ready to use with effortless automatic cleaning in just seconds. Remove buildup, oil, and residue while helping your makeup apply smoother every day.</p>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less",
@@ -356,7 +356,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/IMG-0097.jpg",
+        "image": "shopify://shop_images/1762263482_php0sm68imu98m2971wwdE.jpg",
         "show_sound_control": false,
         "video_url": "",
         "video_alt_text": "",
