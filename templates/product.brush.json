@@ -418,7 +418,7 @@
         "text_pycbn8": {
           "type": "text",
           "settings": {
-            "text": "Visible results in 4 weeks",
+            "text": "EASY TO USE",
             "highlight_type": "underline",
             "text_size": 100,
             "text_color": "primary",
@@ -476,11 +476,11 @@
           "type": "heading",
           "settings": {
             "subheading": "",
-            "heading": "Plumper, Smoother, Younger-Looking Skin",
+            "heading": "Your Brushes Deserve Better",
             "highlight_type": "underline",
             "heading_base_size": 100,
             "heading_tag": "h2",
-            "text": "<p>Formulated with 1% pure bakuchiol, multi-weight hyaluronic acid, and botanical peptides, this lightweight serum penetrates deep to restore firmness, soften fine lines, and even skin tone. Works while you sleep — wake up to visibly softer, more radiant skin.</p>",
+            "text": "<p>Give your beauty routine a cleaner upgrade with fast automatic brush cleaning and drying. Remove hidden dirt and makeup buildup while keeping your brushes soft, fresh, and skin-friendly.</p>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less",
@@ -581,6 +581,14 @@
             "criterion_detail_product": "Yes",
             "criterion_detail_externals": "No\nNo\nNo\nNo"
           }
+        },
+        "criterion_433pHT": {
+          "type": "criterion",
+          "settings": {
+            "heading": "Criterion label",
+            "criterion_detail_product": "Yes",
+            "criterion_detail_externals": "No\nNo\nNo\nNo"
+          }
         }
       },
       "block_order": [
@@ -588,8 +596,10 @@
         "criterion_PwExPw",
         "criterion_xq8H3q",
         "criterion_8PcRXm",
-        "criterion_BXt7xk"
+        "criterion_BXt7xk",
+        "criterion_433pHT"
       ],
+      "disabled": true,
       "name": "t:sections.comparision-table.name",
       "settings": {
         "heading": "Us vs Them",
@@ -617,6 +627,21 @@
         "show_section_divider": false,
         "padding_top": 28,
         "padding_bottom": 28,
+        "show_section_divider_mobile": false,
+        "padding_top_mobile": 28,
+        "padding_bottom_mobile": 28
+      }
+    },
+    "custom_liquid_73GhTG": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<style>\n* { box-sizing: border-box; }\n.cw { font-family: sans-serif; padding: 1.5rem 1rem; background: #fff; }\n.ct { text-align: center; margin-bottom: 1.5rem; }\n.ct h2 { font-size: 20px; font-weight: 500; color: #111; margin: 0 0 4px; letter-spacing: -0.3px; }\n.ct p { font-size: 13px; color: #888; margin: 0; }\n.col-heads { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin-bottom: 8px; }\n.ch { text-align: center; padding: 10px 8px 8px; border-radius: 10px 10px 0 0; }\n.ch-us { background: #111; }\n.ch-them { background: #f5f5f5; }\n.ch-badge { font-size: 10px; font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase; padding: 2px 8px; border-radius: 20px; display: inline-block; margin-bottom: 4px; }\n.ch-us .ch-badge { background: #333; color: #fff; }\n.ch-them .ch-badge { background: #e8e8e8; color: #aaa; }\n.ch-name { font-size: 14px; font-weight: 500; }\n.ch-us .ch-name { color: #fff; }\n.ch-them .ch-name { color: #888; }\n.row { border-top: 1px solid #f0f0f0; padding: 12px 0 4px; }\n.row:first-child { border-top: none; }\n.feat { font-size: 13px; color: #333; font-weight: 500; margin: 0 0 2px; }\n.feat-sub { font-size: 11px; color: #bbb; margin: 0 0 8px; }\n.pills { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }\n.pill { display: flex; align-items: center; justify-content: center; gap: 5px; font-size: 12px; font-weight: 500; padding: 8px 6px; border-radius: 8px; text-align: center; line-height: 1.3; }\n.pill-y { background: #111; color: #fff; }\n.pill-n { background: #f5f5f5; color: #bbb; font-weight: 400; }\n.pill svg { flex-shrink: 0; }\n.badges { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; margin-top: 1.25rem; padding-top: 1.25rem; border-top: 1px solid #f0f0f0; }\n.badge { text-align: center; }\n.badge-num { font-size: 20px; font-weight: 500; color: #111; }\n.badge-lbl { font-size: 11px; color: #aaa; margin-top: 2px; }\n</style>\n\n<div class=\"cw\">\n  <div class=\"ct\">\n    <h2>Why switch to Gluomora?</h2>\n    <p>See how we compare to washing brushes by hand</p>\n  </div>\n\n  <div class=\"col-heads\">\n    <div class=\"ch ch-us\">\n      <div class=\"ch-badge\">Us</div>\n      <div class=\"ch-name\">Gluomora</div>\n    </div>\n    <div class=\"ch ch-them\">\n      <div class=\"ch-badge\">Them</div>\n      <div class=\"ch-name\">Hand Washing</div>\n    </div>\n  </div>\n\n  <div class=\"row\">\n    <p class=\"feat\">Deep bacteria removal</p>\n    <p class=\"feat-sub\">Eliminates oil, makeup & germs</p>\n    <div class=\"pills\">\n      <div class=\"pill pill-y\">\n        <svg width=\"13\" height=\"13\" viewBox=\"0 0 14 14\" fill=\"none\"><circle cx=\"7\" cy=\"7\" r=\"7\" fill=\"#fff\" fill-opacity=\".2\"/><path d=\"M4 7l2.2 2.2L10 5\" stroke=\"#fff\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg>\n        360° spin clean\n      </div>\n      <div class=\"pill pill-n\">\n        <svg width=\"13\" height=\"13\" viewBox=\"0 0 14 14\" fill=\"none\"><circle cx=\"7\" cy=\"7\" r=\"7\" fill=\"#e0e0e0\"/><path d=\"M4.5 9.5l5-5M9.5 9.5l-5-5\" stroke=\"#bbb\" stroke-width=\"1.4\" stroke-linecap=\"round\"/></svg>\n        Incomplete rinse\n      </div>\n    </div>\n  </div>\n\n  <div class=\"row\">\n    <p class=\"feat\">Fast drying</p>\n    <p class=\"feat-sub\">Ready-to-use in minutes</p>\n    <div class=\"pills\">\n      <div class=\"pill pill-y\">\n        <svg width=\"13\" height=\"13\" viewBox=\"0 0 14 14\" fill=\"none\"><circle cx=\"7\" cy=\"7\" r=\"7\" fill=\"#fff\" fill-opacity=\".2\"/><path d=\"M4 7l2.2 2.2L10 5\" stroke=\"#fff\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg>\n        Spin-dry in 30s\n      </div>\n      <div class=\"pill pill-n\">\n        <svg width=\"13\" height=\"13\" viewBox=\"0 0 14 14\" fill=\"none\"><circle cx=\"7\" cy=\"7\" r=\"7\" fill=\"#e0e0e0\"/><path d=\"M4.5 9.5l5-5M9.5 9.5l-5-5\" stroke=\"#bbb\" stroke-width=\"1.4\" stroke-linecap=\"round\"/></svg>\n        Hours to air dry\n      </div>\n    </div>\n  </div>\n\n  <div class=\"row\">\n    <p class=\"feat\">Bristle protection</p>\n    <p class=\"feat-sub\">Keeps brush shape intact</p>\n    <div class=\"pills\">\n      <div class=\"pill pill-y\">\n        <svg width=\"13\" height=\"13\" viewBox=\"0 0 14 14\" fill=\"none\"><circle cx=\"7\" cy=\"7\" r=\"7\" fill=\"#fff\" fill-opacity=\".2\"/><path d=\"M4 7l2.2 2.2L10 5\" stroke=\"#fff\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg>\n        Gentle on bristles\n      </div>\n      <div class=\"pill pill-n\">\n        <svg width=\"13\" height=\"13\" viewBox=\"0 0 14 14\" fill=\"none\"><circle cx=\"7\" cy=\"7\" r=\"7\" fill=\"#e0e0e0\"/><path d=\"M4.5 9.5l5-5M9.5 9.5l-5-5\" stroke=\"#bbb\" stroke-width=\"1.4\" stroke-linecap=\"round\"/></svg>\n        Fraying over time\n      </div>\n    </div>\n  </div>\n\n  <div class=\"row\">\n    <p class=\"feat\">No mess, no effort</p>\n    <p class=\"feat-sub\">Hands stay clean & dry</p>\n    <div class=\"pills\">\n      <div class=\"pill pill-y\">\n        <svg width=\"13\" height=\"13\" viewBox=\"0 0 14 14\" fill=\"none\"><circle cx=\"7\" cy=\"7\" r=\"7\" fill=\"#fff\" fill-opacity=\".2\"/><path d=\"M4 7l2.2 2.2L10 5\" stroke=\"#fff\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg>\n        One-touch clean\n      </div>\n      <div class=\"pill pill-n\">\n        <svg width=\"13\" height=\"13\" viewBox=\"0 0 14 14\" fill=\"none\"><circle cx=\"7\" cy=\"7\" r=\"7\" fill=\"#e0e0e0\"/><path d=\"M4.5 9.5l5-5M9.5 9.5l-5-5\" stroke=\"#bbb\" stroke-width=\"1.4\" stroke-linecap=\"round\"/></svg>\n        Stained hands & sink\n      </div>\n    </div>\n  </div>\n\n  <div class=\"row\">\n    <p class=\"feat\">Visible clean water tank</p>\n    <p class=\"feat-sub\">See exactly what's removed</p>\n    <div class=\"pills\">\n      <div class=\"pill pill-y\">\n        <svg width=\"13\" height=\"13\" viewBox=\"0 0 14 14\" fill=\"none\"><circle cx=\"7\" cy=\"7\" r=\"7\" fill=\"#fff\" fill-opacity=\".2\"/><path d=\"M4 7l2.2 2.2L10 5\" stroke=\"#fff\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg>\n        Transparent tank\n      </div>\n      <div class=\"pill pill-n\">\n        <svg width=\"13\" height=\"13\" viewBox=\"0 0 14 14\" fill=\"none\"><circle cx=\"7\" cy=\"7\" r=\"7\" fill=\"#e0e0e0\"/><path d=\"M4.5 9.5l5-5M9.5 9.5l-5-5\" stroke=\"#bbb\" stroke-width=\"1.4\" stroke-linecap=\"round\"/></svg>\n        Murky, no visibility\n      </div>\n    </div>\n  </div>\n\n  <div class=\"badges\">\n    <div class=\"badge\"><div class=\"badge-num\">30s</div><div class=\"badge-lbl\">to clean & dry</div></div>\n    <div class=\"badge\"><div class=\"badge-num\">99%</div><div class=\"badge-lbl\">bacteria removed</div></div>\n    <div class=\"badge\"><div class=\"badge-num\">5×</div><div class=\"badge-lbl\">longer brush life</div></div>\n  </div>\n</div>",
+        "full_width": false,
+        "show_section_divider": false,
+        "padding_top": 28,
+        "padding_bottom": 28,
+        "full_width_mobile": false,
         "show_section_divider_mobile": false,
         "padding_top_mobile": 28,
         "padding_bottom_mobile": 28
@@ -672,6 +697,7 @@
         "frequently_asked_question_qKUeCx",
         "frequently_asked_question_p9THCx"
       ],
+      "disabled": true,
       "name": "t:sections.question_and_answer.presets.name",
       "settings": {
         "heading": "FAQs",
@@ -815,6 +841,7 @@
     "custom_liquid_ijEmeF",
     "image_with_text_3DwQRt",
     "comparison_table_F7TyFB",
+    "custom_liquid_73GhTG",
     "faq_byLxM7",
     "1775230527caeebe72",
     "331e6fca-2947-4a19-89c5-9396be0d666a"
